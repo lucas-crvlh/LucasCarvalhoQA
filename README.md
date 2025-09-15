@@ -3,7 +3,8 @@ Olá! Me chamo Lucas, sou Analista de QA em formação. Com foco em automação 
 
 Terminei recentemente meu bootcamp de QA pela TripleTen e estou me aprimorando com cursos a parte para ter bagagem de iniciar uma carreira o mais breve possível.
 
-Habilidades e Ferramentas: 
+Habilidades e Ferramentas:
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
@@ -17,7 +18,10 @@ Habilidades e Ferramentas:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 Certificados:
-[Certificado de Python Básico](file:///C:/Users/Lucas%20Carvalho/Documents/QA%20ANALYST/PYTHON/certificado%20python%20basico.pdf)
+
+[Certificado de Python Básico]
+[certificado python basico.pdf](https://github.com/user-attachments/files/22351675/certificado.python.basico.pdf)
+
 [Certificados de Aprendizagens da TripleTen]
 <img width="1200" height="627" alt="Image (14)" src="https://github.com/user-attachments/assets/61f9bccb-0ebd-4540-8639-e7c7d1c23480" />
 <img width="1200" height="627" alt="Image (13)" src="https://github.com/user-attachments/assets/b8efa9d4-ca05-47a4-8bc9-1a4240bf6fc7" />
