@@ -19,7 +19,7 @@ Habilidades e Ferramentas:
 
 Certificados:
 
-[Certificado de Python Básico]
+[Certificado de Python Básico pela Fatec/Huawei]
 [certificado python basico.pdf](https://github.com/user-attachments/files/22351675/certificado.python.basico.pdf)
 
 [Certificados de Aprendizagens da TripleTen]
