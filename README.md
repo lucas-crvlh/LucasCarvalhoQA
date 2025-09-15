@@ -3,3 +3,25 @@ Olá! Me chamo Lucas, sou Analista de QA em formação. Com foco em automação 
 
 Terminei recentemente meu bootcamp de QA pela TripleTen e estou me aprimorando com cursos a parte para ter bagagem de iniciar uma carreira o mais breve possível.
 
+Habilidades e Ferramentas: 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+Certificados:
+[Certificado de Python Básico](file:///C:/Users/Lucas%20Carvalho/Documents/QA%20ANALYST/PYTHON/certificado%20python%20basico.pdf)
+[Certificados de Aprendizagens da TripleTen]
+<img width="1200" height="627" alt="Image (14)" src="https://github.com/user-attachments/assets/61f9bccb-0ebd-4540-8639-e7c7d1c23480" />
+<img width="1200" height="627" alt="Image (13)" src="https://github.com/user-attachments/assets/b8efa9d4-ca05-47a4-8bc9-1a4240bf6fc7" />
+<img width="1200" height="627" alt="Image (7)" src="https://github.com/user-attachments/assets/2448e19a-6946-4de1-b36d-f6471d8041dd" />
+<img width="1200" height="627" alt="Image (5)" src="https://github.com/user-attachments/assets/c3068960-7fde-40df-bbb0-d87150ecea06" />
+<img width="1200" height="627" alt="Image (3)" src="https://github.com/user-attachments/assets/79450a5e-3010-4c9a-8ff6-117a709aae32" />
+
