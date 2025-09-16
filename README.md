@@ -19,10 +19,17 @@ Habilidades e Ferramentas:
 
 Certificados:
 
-[Certificado de Python Básico pela Fatec/Huawei]
+Certificado de Bootcamp da TripleTen - QA Analyst/QAEngineer:
+
+[Lucas Carvalho _QA-1.pdf](https://github.com/user-attachments/files/22371911/Lucas.Carvalho._QA-1.pdf)
+[Lucas Carvalho _QA-2.pdf](https://github.com/user-attachments/files/22371912/Lucas.Carvalho._QA-2.pdf)
+
+Certificado de Python Básico pela Fatec/Huawei:
+
 [certificado python basico.pdf](https://github.com/user-attachments/files/22351675/certificado.python.basico.pdf)
 
-[Certificados de Aprendizagens da TripleTen]
+Certificados de Aprendizagens da TripleTen:
+
 <img width="1200" height="627" alt="Image (14)" src="https://github.com/user-attachments/assets/61f9bccb-0ebd-4540-8639-e7c7d1c23480" />
 <img width="1200" height="627" alt="Image (13)" src="https://github.com/user-attachments/assets/b8efa9d4-ca05-47a4-8bc9-1a4240bf6fc7" />
 <img width="1200" height="627" alt="Image (7)" src="https://github.com/user-attachments/assets/2448e19a-6946-4de1-b36d-f6471d8041dd" />
