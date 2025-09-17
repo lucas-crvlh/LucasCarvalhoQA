@@ -1,9 +1,11 @@
-# LucasCarvalhoQA
-Olá! Me chamo Lucas, sou Analista de QA em formação. Com foco em automação de testes com Python, Selenium/Playwright e testes de API. Buscando minha primeira oportunidade para construir softwares de alta qualidade!
+# Lucas Carvalho Cordeiro
 
-Terminei recentemente meu bootcamp de QA pela TripleTen e estou me aprimorando com cursos a parte para ter bagagem de iniciar uma carreira o mais breve possível.
+**`Analista de Testes e Qualidade de Software Jr`**
 
-Habilidades e Ferramentas:
+Olá! Me chamo Lucas, sou Analista de QA em formação. Com foco em automação de testes com Python, Selenium/Playwright e testes de API. Estou buscando minha primeira oportunidade para construir softwares de alta qualidade!
+Terminei recentemente um bootcamp de QA pela TripleTen e estou me aprimorando com cursos a parte para ter bagagem de iniciar uma carreira o mais breve possível.
+
+### Linguagens e Tecnologias
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white">
@@ -17,7 +19,7 @@ Habilidades e Ferramentas:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-Certificados:
+### Certificados:
 
 Certificado de Bootcamp da TripleTen - QA Analyst/QAEngineer:
 
