@@ -22,9 +22,9 @@ Certificado de Python Básico pela Fatec/Huawei:
 
 Certificados de Aprendizagens da TripleTen:
 
-<img width="1200" height="627" alt="Image (14)" src="https://github.com/user-attachments/assets/61f9bccb-0ebd-4540-8639-e7c7d1c23480" />
-<img width="1200" height="627" alt="Image (13)" src="https://github.com/user-attachments/assets/b8efa9d4-ca05-47a4-8bc9-1a4240bf6fc7" />
-<img width="1200" height="627" alt="Image (7)" src="https://github.com/user-attachments/assets/2448e19a-6946-4de1-b36d-f6471d8041dd" />
-<img width="1200" height="627" alt="Image (5)" src="https://github.com/user-attachments/assets/c3068960-7fde-40df-bbb0-d87150ecea06" />
-<img width="1200" height="627" alt="Image (3)" src="https://github.com/user-attachments/assets/79450a5e-3010-4c9a-8ff6-117a709aae32" />
+<img src="https://github.com/user-attachments/assets/61f9bccb-0ebd-4540-8639-e7c7d1c23480" width="100" />
+<img src="https://github.com/user-attachments/assets/b8efa9d4-ca05-47a4-8bc9-1a4240bf6fc7" width="100" />
+<img src="https://github.com/user-attachments/assets/2448e19a-6946-4de1-b36d-f6471d8041dd" width="100" />
+<img src="https://github.com/user-attachments/assets/c3068960-7fde-40df-bbb0-d87150ecea06" width="100" />
+<img src="https://github.com/user-attachments/assets/79450a5e-3010-4c9a-8ff6-117a709aae32" width="100" />
 
