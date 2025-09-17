@@ -3,8 +3,8 @@
 **`Analista de Testes e Qualidade de Software Jr`**
 
 [Linkedin](https://www.linkedin.com/in/lucas-crvlh00/)
-[Gmail](carvalho.lucascc@gmail.com)
-[Telefone]((11)99187-4587)
+[carvalho.lucascc@gmail.com]
+[(11)99187-4587)]
 
 Olá! Me chamo Lucas, sou Analista de QA em formação. Com foco em automação de testes com Python, Selenium/Playwright e testes de API. Estou buscando minha primeira oportunidade para construir softwares de alta qualidade!
 Terminei recentemente um bootcamp de QA pela TripleTen e estou me aprimorando com cursos a parte para ter bagagem de iniciar uma carreira o mais breve possível.
