@@ -20,6 +20,14 @@ Validação de dados via SQL e testes de API no Postman.
 
 🎯 Aberto a oportunidades como QA Jr (remoto ou híbrido).
 
+### Projetos de QA (Bootcamp)
+[Casos de Teste de Regressão](https://docs.google.com/spreadsheets/d/1BTy33v730ilY_N26dJQ_IhXjZRnDO72o/edit?usp=sharing&ouid=115716303875066897818&rtpof=true&sd=true)
+[Classes de Equivalência](https://docs.google.com/spreadsheets/d/1cGM4Hnuooj8--8C1P7KC8i12j-mUrm1I/edit?usp=sharing&ouid=115716303875066897818&rtpof=true&sd=true)
+[Teste Aplicativo Web](https://docs.google.com/document/d/1ZDIb-HUBRWd7xopINojnVmO6YRldIEOi/edit?usp=sharing&ouid=115716303875066897818&rtpof=true&sd=true)
+[Teste de API](https://docs.google.com/spreadsheets/d/1rtTA4p7XuhBh_X6_V33O_FMsfe4Thv8W/edit?gid=222111639#gid=222111639)
+[Teste Mobile](https://docs.google.com/spreadsheets/d/1h3DncUS09_fAkcHxy4hc4XJnCn9couv29ZXsgaKW-YI/edit?gid=287334773#gid=287334773)
+[Banco de Dados/SQL](https://docs.google.com/document/d/1-VSpGEQBANdAANO5KFTessbj0YldU-qWZWxyfnui6EM/edit?tab=t.0#heading=h.sg2vs7j8fiw7)
+
 ### Linguagens e Tecnologias
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
