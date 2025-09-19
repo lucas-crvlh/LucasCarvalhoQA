@@ -6,8 +6,19 @@
 carvalho.lucascc@gmail.com
 (11) 99187-4587
 
-Olá! Me chamo Lucas, sou Analista de QA em formação. Com foco em automação de testes com Python, Selenium/Playwright e testes de API. Estou buscando minha primeira oportunidade para construir minha carreira no mercado de tecnologia.
-Terminei recentemente um bootcamp de QA pela TripleTen e estou me aprimorando com cursos a parte para ter bagagem de iniciar uma carreira o mais breve possível.buscando minha primeira oportunidade para construir minha carreira no mercado de tecnologia
+👋 Sobre mim
+
+Sou QA Jr em formação, com foco em testes Web/API, automação com Python + Selenium e práticas de qualidade de software. Tenho experiência prática em:
+
+Criação e execução de casos de teste.
+
+Reporte e acompanhamento de bugs no Jira.
+
+Automação de cenários de teste com Pytest + Selenium.
+
+Validação de dados via SQL e testes de API no Postman.
+
+🎯 Aberto a oportunidades como QA Jr (remoto ou híbrido).
 
 ### Linguagens e Tecnologias
 
