@@ -2,9 +2,11 @@
 
 **`Analista de Testes e Qualidade de Software Jr`**
 
-[Linkedin](https://www.linkedin.com/in/lucas-crvlh00/)
-carvalho.lucascc@gmail.com
-(11) 99187-4587
+📬 Contato
+
+📧 carvalho.lucascc@gmail.com
+📱 (11) 99187-4587
+🌍 Aberto a oportunidades QA Jr (remoto/híbrido)
 
 👋 Sobre mim
 
